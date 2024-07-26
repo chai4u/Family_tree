@@ -6,7 +6,7 @@ Well, I wanted to branch out (pun intended) from the usual machine learning mode
 
 ### About this repository
 
-This repository contains a web-based family tree representation built using HTML, CSS, and JavaScript. I created this project with the help of already existing code snippet "https://shrihari-lib.netlify.app/lineage.min.js", to visualize my family connections and make it easy to navigate through generations. The frontend allows users to explore the tree and learn more about each family member.
+This repository contains a web-based family tree representation built using HTML, CSS, and JavaScript. I created this project with the help of already existing code snippet "https://shrihari-lib.netlify.app/lineage.min.js", to visualize my family connections and make it easy to navigate through generations. The frontend allows users to explore the tree and learn about each family member.
 
 ### Features
 
