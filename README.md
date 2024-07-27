@@ -1,6 +1,6 @@
 # Family_tree Repository👪
 
-### Why a family tree, you ask?🤔
+### Why a family tree, you ask?🤔🧐
 
 Well, I wanted to branch out (pun intended) from the usual machine learning model building and create something that's a little more... personal. Plus, I figured it's a great way to get to the root of my family's history (okay, I'll stop with the tree puns now).
 
@@ -22,4 +22,6 @@ This repository contains a web-based family tree representation built using HTML
 - JavaScript for interactive functionality
 - jQuery for loading Content Delivery Network (CDN)
 
+**Note** : This website is not fully responsive. For the best experience,I recommend viewing it on a desktop device.
+https://chai4u.github.io/My_Family_tree/main
 
